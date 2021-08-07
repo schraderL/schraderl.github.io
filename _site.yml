@@ -1,7 +1,7 @@
-name: "Lukas Schrader"
+name: "Schrader Lab"
 output_dir: "."
 navbar:
-  title: "Lukas Schrader"
+  title: "Schrader Lab"
   left:
     - text: "Home"
       href: index.html
@@ -13,3 +13,10 @@ navbar:
       href: https://github.com/
     - text: "Contact"
       href: contact.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
