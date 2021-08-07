@@ -17,4 +17,4 @@ This site will host content related to the Insect Evolutionary Genomics lab at t
 - Lukas Schrader: All of the above
 
 ### Contact
-send me an email! Lukas.Schrader(at)wwu.de
+Lukas.Schrader(at)wwu.de
