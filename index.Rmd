@@ -1,0 +1,23 @@
+---
+title: "My Website"
+---
+
+## Welcome to this very preliminary site!
+
+This site will host content related to the Insect Evolutionary Genomics lab at the WWU Münster.
+
+
+### People
+
+- Simo Errbii: Population genomics and genome evolution in ants.
+- Esther van den Boes: Rapid evolution and TE-induced genetic variation in invasive ants.
+- Janina Rinke: The impact of horizontal gene transfers in ants.
+- Nic Schröder: Ant virome evolution and evolutionary genomics of insect endosymbionts.
+- Maja Drakula: Colony recognition and self-/non-self discrimination in invasive ants.
+- Lena Wiegert: Canalization and phenotypic diversification in Cardiocondyla obscurior.
+- Svenja Kieckhäfer: The role of cuticular hydrocarbons in desiccation resistance in ants
+- Eyleen Wiese: The genetic basis of CHC biosynthesis in ants
+- Lukas Schrader: All of the above
+
+### Contact
+Lukas.Schrader(at)wwu.de
