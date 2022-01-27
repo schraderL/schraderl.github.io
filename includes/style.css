@@ -1,0 +1,53 @@
+div.people {
+    background-color:#EDF2F7; 
+    color:#1A2067; 
+    border-left: solid #718096 4px;
+    border-radius: 4px;
+    font-size: 12px;
+}
+
+div.publication {
+    font-size: 10px;
+}
+
+div.press {
+    border-radius: 5px;
+    background-color:#000000; 
+    color:#FFFFFF; 
+    font-size: 16px;
+}
+
+p.people {
+  padding:0.7em;
+  margin-left:0.7em;
+  display: inline-block;
+}
+
+p.press {
+  padding:0.7em;
+  margin-left:0.7em;
+  display: inline-block;
+}
+
+img.people {
+  float:left;
+  border: 1px solid #000000;
+  margin-right:0.7em;
+  margin-bottom: 0.1em;
+  margin-top: 0.7em;
+  object-fit: cover;
+  width:100px;
+  height:100px;
+}
+
+img.press {
+  float:left;
+  border-radius: 25px;
+  border: 1px solid #4682b4;
+  margin-right:0.7em;
+  margin-bottom: 0.1em;
+  margin-top: 0.7em;
+  object-fit: cover;
+  width:200px;
+  height:200px;
+}
