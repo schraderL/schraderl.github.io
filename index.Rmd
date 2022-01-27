@@ -291,13 +291,13 @@ Funding {data-icon="fa-hand-holding-usd"}
 The work in our group is made possible by generous funding from the German Research Foundation DFG, the *Santander Mobilitätsfonds*, and the SAFIR funding program.
 
 ####
-<img src="files/funding/DFG.png" style="width:20%">
+<img src="files/funding/DFG.png" width=100px>
 
 ####
-<img src="files/funding/safir.png" style="width:20%">
+<img src="files/funding/safir.png" width=100px>
 
 ####
-<img src="files/funding/Santander.jpg" style="width:20%">
+<img src="files/funding/Santander.jpg" width=100px>
 
 Press coverage {data-icon="fa-bullhorn"}
 =============================
