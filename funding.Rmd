@@ -1,0 +1,8 @@
+---
+title: "Funding"
+---
+
+####
+Our research is made possible by generous funding from the German Research Foundation DFG, the *Santander Mobilitätsfonds*, and the SAFIR funding program.
+
+<img src="files/funding/DFG.png" width=200px><img src="files/funding/safir.png" width=200px><img src="files/funding/Santander.jpg" width=200px>

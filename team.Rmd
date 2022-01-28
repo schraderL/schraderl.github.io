@@ -1,0 +1,109 @@
+---
+title: "Team"
+
+---
+
+<div class="people">
+  <p class="people">
+  <img class="people" src="files/people/simo.png">  <b>
+  Mohammed "Simo" Errbii
+  </b>  &rarr; 
+  Population genomics and genome evolution in ants. 
+  <br>
+  </p>
+</div>
+
+
+<br>
+<div class="people">
+  <p class="people">
+  <img class="people" src="files/people/na.png">
+  <b>
+  Rebecca Rothering
+  </b>  &rarr; 
+  The evolutionary significance of TEs in ants.
+  <br>
+  </p>
+</div>
+
+<br>
+<div class="people">
+  <p class="people">
+  <img class="people" src="files/people/esther.jpg">
+  <b>
+  Esther van den Boes
+  </b>  &rarr; 
+  Rapid evolution and TE-induced genetic variation in invasive ants.
+  <br>
+  </p>
+</div>
+
+<br>
+<div class="people">
+  <p class="people">
+  <img class="people" src="files/people/janina.png">
+  <b>
+  Janina Rinke
+  </b>  &rarr; 
+  The impact of horizontal gene transfers in ants.
+  <br>
+  </p>
+</div>
+
+<br>
+<div class="people">
+  <p class="people">
+  <img class="people" src="files/people/nic.jpg">
+  <b>
+  Nic Schröder
+  </b>  &rarr; 
+  Ant virome evolution and evolutionary genomics of insect endosymbionts.
+  <br>
+  </p>
+</div>
+
+<br>
+<div class="people">
+  <p class="people">
+  <img class="people" src="files/people/maja.jpg">
+  <b>
+  Maja Drakula
+  </b>  &rarr; 
+  Colony recognition and self-/non-self discrimination in invasive ants.
+  <br>
+  </p>
+</div>
+
+<br>
+<div class="people">
+  <p class="people">
+  <img class="people" src="files/people/nadine.jpg">
+  <b>
+  Nadine Kortüm
+  </b>  &rarr; 
+  Molecular characterization of ant LGTs.
+  <br>
+  </p>
+</div>
+
+<br>
+<div class="people">
+  <p class="people">
+  <img class="people" src="files/people/lukas.png">
+  <b>
+  Lukas Schrader
+  </b>  &rarr; 
+  All of the above
+  <br>
+  </p>
+</div>
+
+<br><br>
+
+**Former Members:**
+
+  - **Lena Wiegert:** Canalization and phenotypic diversification in *Cardiocondyla obscurior*
+  - **Svenja Kieckhäfer:** The role of cuticular hydrocarbons in desiccation resistance in ants
+  - **Eyleen Wiese:** The genetic basis of CHC biosynthesis in ants
+  - **Miles Winter:** HSP90/HSP70 in *Cardiocondyla obscurior*
+

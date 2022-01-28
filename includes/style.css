@@ -1,3 +1,16 @@
+.col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+
+
+p.block {
+	hyphens: auto; 
+	text-align: justify
+	background-color:#EDF2F7; 
+}
+
 div.people {
     background-color:#EDF2F7; 
     color:#1A2067; 
@@ -11,11 +24,21 @@ div.publication {
 }
 
 div.press {
-    border-radius: 5px;
+    border-radius: 25px;
     background-color:#000000; 
     color:#FFFFFF; 
     font-size: 16px;
 }
+
+div.latest {
+    background-color:#EDF2F7; 
+    color:#000000; 
+    border-left: solid #718096 4px;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-left:1em;
+}
+
 
 p.people {
   padding:0.7em;
@@ -43,7 +66,7 @@ img.people {
 img.press {
   float:left;
   border-radius: 25px;
-  border: 1px solid #4682b4;
+  border: 1px solid #000000;
   margin-right:0.7em;
   margin-bottom: 0.1em;
   margin-top: 0.7em;

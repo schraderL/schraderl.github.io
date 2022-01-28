@@ -1,0 +1,45 @@
+name: "lukas lab"
+output_dir: "."
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
+navbar:
+  title: "lukas lab"
+  left:
+    - text: "Home"
+      href: index.html
+      icon: fa-home
+    - text: "Team"
+      href: team.html
+      icon: fa-user-friends
+    - text: "Research"
+      href: research.html
+      icon: fa-wrench
+    - text: "Publications"
+      href: publications.html
+      icon: fa-file-alt
+    - text: "Funding"
+      href: funding.html
+      icon: fa-hand-holding-usd
+    - text: "Join Us!"
+      href: join.html
+      icon: fa-handshake
+    - text: "Press"
+      href: press.html
+      icon: fa-bullhorn
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<lukas.schrader@wwu.de>
+    - icon: fa-github fa-lg
+      href: http://github.com/schraderl/
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: includes/style.css
+    include:
+      after_body: footer.html
