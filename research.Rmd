@@ -6,6 +6,20 @@ title: "Research"
 ## {.tabset}
 
 ### **Rapid genome evolution**
+<div class = "col-md-8", style="text-align: justify;">
+Structural variants, defined as stretches of DNA that differ in copy number (deletions, insertions and duplications), orientation (inversions) or chromosomal location (translocations) between individuals, are the largest source of inter-individual genetic variation. Such complex rearrangements can be caused by a single mutagenic event and account for most of the variation between genomes. For example in humans, any two humans will on average differ in copy number across 0.78% of their genomes!
+
+Structural variation can have devastating fitness consequences, but there is sufficient evidence to also conclude that they provide a rich basis for adaptive evolution. Different to single nucleotide variants, structural variants are much more likely to have a large effect on an individual’s phenotype, because they affect more than a single base (see for example, the loss of pelvic appendages in freshwater stickle-back populations, Chan et al. 2010). The relatively high frequency of structural variants in natural populations, their origin from single mutagenic events and their potential for causing considerable phenotypic change make structural variants a relevant research subject for studying rapid adaptation.
+We explore the origins, prevalence, and consequences of structural variation in the invasive ant <i>Cardiocondyla obscurior</i> a genomic model for eusocial evolution,  which shows considerable phenotypic variation across different introduced populations. Intriguingly, in introduced populations, genetic bottlenecks and increased inbreeding reduces efficiency of selection, while the instantaneous exposure to a novel environment opens up potential (and demand) for rapid evolutionary change. Therefore, mildly adaptive small-effect variants (e.g. SNVs) caused by mutations, retrotransposons or doublestrand-break DNA repair are more likely to be lost through drift and are thus less likely to contribute to adaptation. Hence, larger structural variants conferring larger phenotypic effects should be particularly important under this scenario. Indeed, structural variation have repeatedly been shown to confer adaptations to novel environments.
+<br>
+<br>
+</div>
+
+
+<div class = "col-md-4", style="text-align: justify;">
+<img src="./files/research/TE2.png" width=100%>
+</div>
+
 
 ### **GAGA**
 <div class = "col-md-8", style="text-align: justify;">
@@ -16,7 +30,19 @@ The Global Ant Genomics Alliance (GAGA) was initiated in 2015 mainly by Guojie Z
 
 
 <div class = "col-md-4", style="text-align: justify;">
-<img src="./files/research/GAGA/GAGA1.png" width=100%>
+<img src="./files/research/GAGA1.png" width=100%>
+</div>
+
+### **Transposable elements and genetic innovation**
+<div class = "col-md-8", style="text-align: justify;">
+Genome evolution is a much more dynamic process than originally presumed. Present in virtually every genome, transposable elements (TEs) are important players in this, as they actively (transposition) and passively (e.g. aberrant recombination) generate novel genetic mutations and rearrangements. TEs thus play a key role in the genetic differentiation of individuals, populations, and species. We try gaining a better understanding of TEs in genome evolution and their role as a creative force in adaptive processes. For this, we study their impact in <i>Cardiocondyla obscurior</i>, a species of invasive ants whose genome is compartmentalized in fast evolving TE-rich and slowly evolving TE-poor regions. Specifically, we address (1) whether TEs can increase adaptability in this species, (2) whether selective activity of TEs in the worker caste can generate adaptive genetic diversity, and (3) whether the HSP90-dependent cellular stress response contributes to the interplay of environment and TE activity. Our researchcombines transcriptomics, genomics, and agent-based simulations to expand our knowledge of the role of TEs in evolution and how invasive species cope with constantly changing environments.
+<br>
+<br>
+</div>
+
+
+<div class = "col-md-4", style="text-align: justify;">
+<img src="./files/research/TE1.png" width=100%>
 </div>
 
 
