@@ -54,4 +54,16 @@ Genome evolution is a much more dynamic process than originally presumed. Presen
 
 ### **Invasion biology**
 
+### **Rapid host specialization** 
+<div class = "col-md-8", style="text-align: justify;">
+The ability of parasites to exploit a range of host species is a classic example of phenotypic plasticity. While such host generalism is expected to be mediated through alterations of gene expression levels, the particular molecular mechanisms of plasticity are not well understood. Aphidius ervi is a generalist parasitoid of aphids, attacking a wide range of different species. Previous research indicates that host preference and parasitoid performance vary in the absence of genetic variation and host preferences can evolve rapidly over few generations, suggesting a non-genetic mode of inheritance for host preference. We designed a laboratory natural selection experiment in the absence of genetic variation to study transcriptomic changes and the non-genetic mechanisms of inheritance that could explain the evolution of rapid adaptions to a particular host. 
+This project is currently funded till 2022 as part of the DFGs SPP program on rapid adaptation (“Genetic and epigenetic mechanisms of rapid host adaptation in the aphid parasitoid Aphidius ervi”, SCHR 1554/3-1) in collaboration with researchers at the University of Münster.
+<br>
+<br>
 </div>
+<div class = "col-md-4", style="text-align: justify;">
+<img src="./files/research/Aervi.png" width=100%>
+
+</div>
+</div>
+
