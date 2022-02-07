@@ -45,7 +45,10 @@ title: "Team"
   <b>
   Janina Rinke
   </b>  &rarr; 
-  The impact of horizontal gene transfers in ants.
+  The impact of horizontal gene transfers in ants.<br>
+  I am interested in the evolution of social insects and particularly in understanding the genetic basis of social insect evolution and their endosymbionts. 
+In the past, I have been investigating the mechanisms of worker policing and worker reproduction in Camponotus ants.
+My current research project focuses on horizontally transferred genes in ants deriving from bacteria and possible new, interesting functions of these HGTs within ants. I am using large-scale sequencing data from the Global Ant Genomics Alliance to find high-quality HGT candidates with bioinformatic methods and genomic approaches. My research tackles the question whether HGTs play a significant role in ants leading to evolutionary advances. For this, I am using RNAseq data to quantify expression of HGTs as well as molecular methods to determine the existence of high-quality HGTs.
   <br>
   </p>
 </div>

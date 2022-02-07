@@ -17,3 +17,6 @@ tmp/
 .Rproj.user
 # ignore mac stuff
 .DS_Store
+
+#Rstuff
+.Rhistory

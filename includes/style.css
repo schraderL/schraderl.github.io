@@ -7,8 +7,9 @@
 
 p.block {
 	hyphens: auto; 
-	text-align: justify
+	text-align: justify-all;
 	background-color:#EDF2F7; 
+	text-align-last: none;
 }
 
 div.people {
