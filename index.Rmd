@@ -32,17 +32,6 @@ Most of our research has so far focused on ants, while only a minority of my ong
 <br>
 <div class = "row">
 
-<div class ="latest">
-```{r news, message=FALSE, warning=FALSE, echo=FALSE}
-library(dplyr)
-library(kableExtra)
-news.df<-read.csv("posts.tsv",sep="\t",F)
-kbl(news.df, caption = NULL,row.names = F,col.names = NULL)  %>% 
-  kable_minimal(html_font = "Arial",font_size = 12) %>%
-  column_spec(1, width = "15px",latex_valign = "m", italic = TRUE,extra_css = "vertical-align:top;") %>%
-  scroll_box(height = "200px") 
-```
-</div>
 </div>
 
 </div>

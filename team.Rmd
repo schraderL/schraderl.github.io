@@ -6,7 +6,7 @@ title: "Team"
 <div class="people">
   <p class="people">
   <img class="people" src="files/people/simo.png">  <b>
-  Mohammed "Simo" Errbii
+  Mohammed "Simo" Errbii (PhD student)
   </b>  &rarr; 
   Population genomics and genome evolution in ants. <br>
   As a researcher, I am mainly interested in describing genetic diversity, and exploring how it is generated and its consequences on organisms. For this, I use various approaches including, but not exclusively, population genomics, comparative genomics and linkage mapping.
@@ -22,7 +22,7 @@ I am a huge fan of Japanese anime and I can talk about it for days. In my free t
   <p class="people">
   <img class="people" src="files/people/na.png">
   <b>
-  Rebecca Rothering
+  Rebecca Rothering (PhD student)
   </b>  &rarr; 
   The evolutionary significance of TEs in ants.<br>
   Transposable elements (TEs) impact genome evolution in many different ways. Amongst other things, they can disrupt or duplicate protein-coding genes, alter splicing patterns, and enhance or repress gene expression. Although many of this TE-introduced genetic variation is likely to be deleterious, it has become increasingly clear that TEs may also play an important role in adaptation, e.g. in the invasive ant <i>Cardiocondyla obscurior</i>.
@@ -38,7 +38,7 @@ Such analyses rely on having a good TE annotation of the genomes under study in 
   <p class="people">
   <img class="people" src="files/people/esther.jpg">
   <b>
-  Esther van den Boes
+  Esther van den Boes (PhD student)
   </b>  &rarr; 
   Rapid evolution and TE-induced genetic variation in invasive ants.<br>
   The constant need to adapt is met differently by each individual, population, or species. In some cases, the success at adapting is obvious, e.g. the behavioral adaptation in humans, in other instances though it can be quite puzzling. Our model organism, the invasive ant species <i>Cardiocondyla obscurior</i>, successfully colonizes new habitats even though genetic variation is low. With my project, we aim to uncover how phenotypic plasticity, cryptic variation and transposable elements (TEs) interplay during this rapid evolution and how especially TEs function as genetic innovators during adaptation.
@@ -51,7 +51,7 @@ Such analyses rely on having a good TE annotation of the genomes under study in 
   <p class="people">
   <img class="people" src="files/people/janina.png">
   <b>
-  Janina Rinke
+  Janina Rinke (PhD student)
   </b>  &rarr; 
   The impact of horizontal gene transfers in ants.<br>
   I am interested in the evolution of social insects and particularly in understanding the genetic basis of social insect evolution and their endosymbionts. 
@@ -66,7 +66,7 @@ My current research project focuses on horizontally transferred genes in ants de
   <p class="people">
   <img class="people" src="files/people/nic.jpg">
   <b>
-  Nic Schröder
+  Nic Schröder (post-graduate student)
   </b>  &rarr; 
   Ant virome evolution and evolutionary genomics of insect endosymbionts.<br>
   My main scientific interests revolve around ecology and evolution of host-microbe interactions. In the past I have been working on parasites and bacterial infections, but the focus of my research shifted towards evolutionary and environmental microbiology. I am particularly interested in the interplay between animal hosts and their bacterial symbionts, as well as in the dynamics of their microbiomes and viromes. In one of my current projects we use comparative genomics of bacterial insect endosymbionts to shed light on the evolutionary transition of free-living bacteria to an endosymbiotic lifestyle. My most recent project aims to characterize the viromes of 150+ ant species using a metagenomic approach on large-scale sequencing data as part of the Global Ant Genomics Alliance.
@@ -79,7 +79,7 @@ My current research project focuses on horizontally transferred genes in ants de
   <p class="people">
   <img class="people" src="files/people/maja.jpg">
   <b>
-  Maja Drakula
+  Maja Drakula (MSc student)
   </b>  &rarr; 
   Colony recognition and self-/non-self discrimination in invasive ants.
   <br>
@@ -89,9 +89,21 @@ My current research project focuses on horizontally transferred genes in ants de
 <br>
 <div class="people">
   <p class="people">
+  <img class="people" src="files/people/sandra.jpg">
+  <b>
+  Sandra Tretter (MSc student)
+  </b>  &rarr; 
+  Micromorphology in ants, with an emphasis on social parasites. 
+  <br>
+  </p>
+</div>
+
+<br>
+<div class="people">
+  <p class="people">
   <img class="people" src="files/people/nadine.jpg">
   <b>
-  Nadine Kortüm
+  Nadine Kortüm (BSc student)
   </b>  &rarr; 
   Molecular characterization of ant LGTs.
   <br>
@@ -103,7 +115,7 @@ My current research project focuses on horizontally transferred genes in ants de
   <p class="people">
   <img class="people" src="files/people/lukas.png">
   <b>
-  Lukas Schrader
+  Lukas Schrader (PI)
   </b><br>
   My goal as a researcher is understanding the interplay between “hard-wired” genomic traits, environmental cues, “soft-wired” regulatory mechanisms, and the phenotype. 
   <br>
