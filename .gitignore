@@ -17,5 +17,14 @@ tmp/
 .Rproj.user
 # ignore mac stuff
 .DS_Store
-#Rstuff
+
+# History files
 .Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
