@@ -74,17 +74,6 @@ My current research project focuses on horizontally transferred genes in ants de
   </p>
 </div>
 
-<br>
-<div class="people">
-  <p class="people">
-  <img class="people" src="files/people/maja.jpg">
-  <b>
-  Maja Drakula (MSc student)
-  </b>  &rarr; 
-  Colony recognition and self-/non-self discrimination in invasive ants.
-  <br>
-  </p>
-</div>
 
 <br>
 <div class="people">
@@ -98,17 +87,6 @@ My current research project focuses on horizontally transferred genes in ants de
   </p>
 </div>
 
-<br>
-<div class="people">
-  <p class="people">
-  <img class="people" src="files/people/nadine.jpg">
-  <b>
-  Nadine Kortüm (BSc student)
-  </b>  &rarr; 
-  Molecular characterization of ant LGTs.
-  <br>
-  </p>
-</div>
 
 <br>
 <div class="people">
@@ -130,4 +108,5 @@ My current research project focuses on horizontally transferred genes in ants de
   - **Svenja Kieckhäfer:** The role of cuticular hydrocarbons in desiccation resistance in ants
   - **Eyleen Wiese:** The genetic basis of CHC biosynthesis in ants
   - **Miles Winter:** HSP90/HSP70 in *Cardiocondyla obscurior*
+  - **Maja Drakula:** The role of CHCs in aggressive interactions in *Cardiocondyla obscurior*
 
