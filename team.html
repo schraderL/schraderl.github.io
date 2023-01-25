@@ -13,7 +13,7 @@
 
 <title>Team</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -177,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -186,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -355,35 +352,6 @@ eyes open for new adventures. <br>
 <br>
 <div class="people">
 <p class="people">
-<img class="people" src="files/people/na.png"> <b> Rebecca Rothering
-(PhD student) </b> → The evolutionary significance of TEs in ants.<br>
-Transposable elements (TEs) impact genome evolution in many different
-ways. Amongst other things, they can disrupt or duplicate protein-coding
-genes, alter splicing patterns, and enhance or repress gene expression.
-Although many of this TE-introduced genetic variation is likely to be
-deleterious, it has become increasingly clear that TEs may also play an
-important role in adaptation, e.g. in the invasive ant <i>Cardiocondyla
-obscurior</i>. This species’ genome has a peculiar compartmentalized
-structure: in a genomic background containing only few TEs exist “TE
-islands”, regions with high TE density and enriched in fast evolving
-gene families (such as olfactory receptors) considered important for the
-colonization of novel environments. As part of the Global Ants Genomics
-Alliance (GAGA), many more ant genomes have been sequenced and
-comparative analyses on TE content and distribution will help us to
-better understand TE evolution in ants and answer questions like “Is the
-existence of TE islands unique to Cardiocondyla obscurior or do we find
-them in other (invasive) ant species as well?” Such analyses rely on
-having a good TE annotation of the genomes under study in the first
-place, though. Usually, this involves a very time- and labour-intensive
-manual curation step, which is not feasible given the large number of
-genomes in the GAGA project. Therefore, I am currently trying to improve
-upon these annotations by substituting the manual curation step with a
-bioinformatic pipeline. <br>
-</p>
-</div>
-<br>
-<div class="people">
-<p class="people">
 <img class="people" src="files/people/esther.jpg"> <b> Esther van den
 Boes (PhD student) </b> → Rapid evolution and TE-induced genetic
 variation in invasive ants.<br> The constant need to adapt is met
@@ -440,6 +408,14 @@ data as part of the Global Ant Genomics Alliance. <br>
 <br>
 <div class="people">
 <p class="people">
+<img class="people" src="files/people/na.png"> <b> Joshua Grebe (MSc
+student) </b> → Canalization and phenotypic robustness of
+superorganisms.<br> <br>
+</p>
+</div>
+<br>
+<div class="people">
+<p class="people">
 <img class="people" src="files/people/sandra.jpg"> <b> Sandra Tretter
 (MSc student) </b> → Micromorphology in ants, with an emphasis on social
 parasites. <br>
@@ -467,6 +443,8 @@ in ants</li>
 obscurior</em></li>
 <li><strong>Maja Drakula:</strong> The role of CHCs in aggressive
 interactions in <em>Cardiocondyla obscurior</em></li>
+<li><strong>Rebecca Rothering:</strong> The evolutionary significance of
+TEs in ants</li>
 </ul>
 
 <p>Copyright &copy; 2021 Lukas Schrader</p>

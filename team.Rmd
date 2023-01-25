@@ -20,22 +20,6 @@ I am a huge fan of Japanese anime and I can talk about it for days. In my free t
 <br>
 <div class="people">
   <p class="people">
-  <img class="people" src="files/people/na.png">
-  <b>
-  Rebecca Rothering (PhD student)
-  </b>  &rarr; 
-  The evolutionary significance of TEs in ants.<br>
-  Transposable elements (TEs) impact genome evolution in many different ways. Amongst other things, they can disrupt or duplicate protein-coding genes, alter splicing patterns, and enhance or repress gene expression. Although many of this TE-introduced genetic variation is likely to be deleterious, it has become increasingly clear that TEs may also play an important role in adaptation, e.g. in the invasive ant <i>Cardiocondyla obscurior</i>.
-This species' genome has a peculiar compartmentalized structure: in a genomic background containing only few TEs exist "TE islands", regions with high TE density and enriched in fast evolving gene families (such as olfactory receptors) considered important for the colonization of novel environments.
-As part of the Global Ants Genomics Alliance (GAGA), many more ant genomes have been sequenced and comparative analyses on TE content and distribution will help us to better understand TE evolution in ants and answer questions like "Is the existence of TE islands unique to Cardiocondyla obscurior or do we find them in other (invasive) ant species as well?"
-Such analyses rely on having a good TE annotation of the genomes under study in the first place, though. Usually, this involves a very time- and labour-intensive manual curation step, which is not feasible given the large number of genomes in the GAGA project. Therefore, I am currently trying to improve upon these annotations by substituting the manual curation step with a bioinformatic pipeline.
-  <br>
-  </p>
-</div>
-
-<br>
-<div class="people">
-  <p class="people">
   <img class="people" src="files/people/esther.jpg">
   <b>
   Esther van den Boes (PhD student)
@@ -78,6 +62,18 @@ My current research project focuses on horizontally transferred genes in ants de
 <br>
 <div class="people">
   <p class="people">
+  <img class="people" src="files/people/na.png">
+  <b>
+  Joshua Grebe (MSc student)
+  </b>  &rarr; 
+  Canalization and phenotypic robustness of superorganisms.<br>
+  <br>
+  </p>
+</div>
+
+<br>
+<div class="people">
+  <p class="people">
   <img class="people" src="files/people/sandra.jpg">
   <b>
   Sandra Tretter (MSc student)
@@ -109,4 +105,5 @@ My current research project focuses on horizontally transferred genes in ants de
   - **Eyleen Wiese:** The genetic basis of CHC biosynthesis in ants
   - **Miles Winter:** HSP90/HSP70 in *Cardiocondyla obscurior*
   - **Maja Drakula:** The role of CHCs in aggressive interactions in *Cardiocondyla obscurior*
+  - **Rebecca Rothering:** The evolutionary significance of TEs in ants
 
