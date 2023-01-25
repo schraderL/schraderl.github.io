@@ -76,7 +76,7 @@ createValueBoxes <- function(df, h = 2, w = 5, padding=0.5, rows = 2){
 
 ```{r scholar, include=FALSE}
 #Define the person to analyze
-scholar_id=c("sH4_TPkAAAAJ","59ha_gEAAAAJ")
+scholar_id=c("sH4_TPkAAAAJ","59ha_gEAAAAJ","KtFmcBIAAAAJ")
 #either load existing file of publications
 #or get a new one from Google Scholar
 #delete the file to force an update
@@ -107,7 +107,7 @@ auth.profile[[2]]$name<-"Mohammed Errbii"
 
 ```{r plot-valuebox, fig.height=1.5, fig.width=4, message=FALSE, warning=FALSE, echo=FALSE}
 df<-data.frame(values=c(num_articles.total,sum(cites.total$cites)),infos=c("Publications","Citations"),icons=c("fa-file", "fa-book"))
-createValueBoxes(df, rows=1)
+#createValueBoxes(df, rows=1)
 
 ```
 
@@ -133,7 +133,7 @@ paperPlots <- function(author.number) {
 paperTab <- function(author.number) {
   paperTable<-papers[[author.number]][order(papers[[author.number]]$year,decreasing = T),c(1,2,3,6)]
   colnames(paperTable)<-c("Title","Authors","Journal","Year")
-  kbl(paperTable, caption = paste(nrow(paperTable)," publications (co-)authored by", auth.profile[[author.number]]$name," ([google scholar](https://scholar.google.de/citations?user=",scholar_id[author.number],"))",sep=""),row.names = F) %>% kable_styling(bootstrap_options = c("striped", "hover"))
+  kbl(paperTable, caption = paste(nrow(paperTable)," publications (co-)authored by ", auth.profile[[author.number]]$name," as of ", format(Sys.time(), "%b %d %Y")," ([google scholar](https://scholar.google.de/citations?user=",scholar_id[author.number],"))",sep=""),row.names = F) %>% kable_styling(bootstrap_options = c("striped", "hover"))
 }
 
 ```
@@ -155,6 +155,20 @@ paperTab(author.number)
 
 
 ### `r author.number<-2; auth.profile[[author.number]]$name`
+#### 
+```{r fig.height=1.5, fig.width=4, message=FALSE, warning=FALSE, echo=FALSE}
+paperPlots(author.number)
+```
+
+
+####
+<div class="publication">
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+paperTab(author.number)
+```
+</div>
+
+### `r author.number<-3; auth.profile[[author.number]]$name`
 #### 
 ```{r fig.height=1.5, fig.width=4, message=FALSE, warning=FALSE, echo=FALSE}
 paperPlots(author.number)
