@@ -62,7 +62,7 @@ My current research project focuses on horizontally transferred genes in ants de
 <br>
 <div class="people">
   <p class="people">
-  <img class="people" src="files/people/na.png">
+  <img class="people" src="files/people/josh.jpg">
   <b>
   Joshua Grebe (MSc student)
   </b>  &rarr; 
