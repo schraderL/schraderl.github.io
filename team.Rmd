@@ -48,20 +48,6 @@ My current research project focuses on horizontally transferred genes in ants de
 <br>
 <div class="people">
   <p class="people">
-  <img class="people" src="files/people/nic.jpg">
-  <b>
-  Nic Schröder (post-graduate student)
-  </b>  &rarr; 
-  Ant virome evolution and evolutionary genomics of insect endosymbionts.<br>
-  My main scientific interests revolve around ecology and evolution of host-microbe interactions. In the past I have been working on parasites and bacterial infections, but the focus of my research shifted towards evolutionary and environmental microbiology. I am particularly interested in the interplay between animal hosts and their bacterial symbionts, as well as in the dynamics of their microbiomes and viromes. In one of my current projects we use comparative genomics of bacterial insect endosymbionts to shed light on the evolutionary transition of free-living bacteria to an endosymbiotic lifestyle. My most recent project aims to characterize the viromes of 150+ ant species using a metagenomic approach on large-scale sequencing data as part of the Global Ant Genomics Alliance.
-  <br>
-  </p>
-</div>
-
-
-<br>
-<div class="people">
-  <p class="people">
   <img class="people" src="files/people/josh.jpg">
   <b>
   Joshua Grebe (MSc student)
@@ -106,4 +92,5 @@ My current research project focuses on horizontally transferred genes in ants de
   - **Miles Winter:** HSP90/HSP70 in *Cardiocondyla obscurior*
   - **Maja Drakula:** The role of CHCs in aggressive interactions in *Cardiocondyla obscurior*
   - **Rebecca Rothering:** The evolutionary significance of TEs in ants
+  - **Nic Schröder:** Ant virus evolution
 
