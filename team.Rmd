@@ -60,11 +60,11 @@ My current research project focuses on horizontally transferred genes in ants de
 <br>
 <div class="people">
   <p class="people">
-  <img class="people" src="files/people/sandra.jpg">
+  <img class="people" src="files/people/na.png">
   <b>
-  Sandra Tretter (MSc student)
+  Nanda Vo (MSc student)
   </b>  &rarr; 
-  Micromorphology in ants, with an emphasis on social parasites. 
+  Transcriptomic signatures of host specialization in Aphidius ervii
   <br>
   </p>
 </div>
@@ -85,7 +85,7 @@ My current research project focuses on horizontally transferred genes in ants de
 <br><br>
 
 **Former Members:**
-
+  - **Sandra Tretter:**   Micromorphology in ants, with an emphasis on social parasites. 
   - **Lena Wiegert:** Canalization and phenotypic diversification in *Cardiocondyla obscurior*
   - **Svenja Kieckhäfer:** The role of cuticular hydrocarbons in desiccation resistance in ants
   - **Eyleen Wiese:** The genetic basis of CHC biosynthesis in ants
