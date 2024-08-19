@@ -76,7 +76,7 @@ createValueBoxes <- function(df, h = 2, w = 5, padding=0.5, rows = 2){
 
 ```{r scholar, include=FALSE}
 #Define the person to analyze
-scholar_id=c("sH4_TPkAAAAJ","KtFmcBIAAAAJ", "VBvt6QYAAAAJ") #"59ha_gEAAAAJ"
+scholar_id=c("sH4_TPkAAAAJ","KtFmcBIAAAAJ", "VBvt6QYAAAAJ", "59ha_gEAAAAJ")
 #either load existing file of publications
 #or get a new one from Google Scholar
 #delete the file to force an update
@@ -184,3 +184,19 @@ paperPlots(author.number)
 paperTab(author.number)
 ```
 </div>
+
+
+### `r author.number<-4; auth.profile[[author.number]]$name`
+#### 
+```{r fig.height=1.5, fig.width=4, message=FALSE, warning=FALSE, echo=FALSE}
+paperPlots(author.number)
+```
+
+
+####
+<div class="publication">
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+paperTab(author.number)
+```
+</div>
+
