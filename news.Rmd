@@ -3,3 +3,9 @@ title: "News"
 ---
 
 
+<div class = "row" style="border:1px solid black;">
+ <div class = "col-md-1"> 18.12.2023 </div> <div class = "col-md-6"> Sandra defended her Master's thesis on olfactory system evolution in ants. She will move on to do a PhD in Jena. Congrats! </div><br<
+ <div class = "col-md-1"> 13.05.2022 </div> <div class = "col-md-6"> Janina defended her Master's thesis on horizontal gene transfers in ants and will continue as a PhD student. Congrats! </div>
+28.01.2022	Our website has gone online. Check out our [team](team.html) and an overview of all published [papers](publications.html). 
+05.01.2022	The DFG-funded project on "Transposable elements as genetic innovators in the invasive ant *Cardiocondyla obscurior*" will start soon!
+</div>

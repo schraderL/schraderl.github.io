@@ -29,6 +29,7 @@ Most of our research has so far focused on ants, while only a minority of my ong
 <div class = "row">
 <img src="files/colony-c.png" width=100%>
 </div>
+
 <br>
 <div class = "row">
 
