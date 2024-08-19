@@ -3,7 +3,7 @@ title: "Welcome to the Insect Evolutionary Genomics lab at the University of Mü
 description: |
   Lukas Schrader
 ---
-
+<body>
 <div class = "row">
 
 <div class = "col-md-6", style="text-align: justify;">
@@ -31,7 +31,40 @@ Most of our research has so far focused on ants, while only a minority of my ong
 </div>
 
 <br>
-<div class = "row">
+<div class="container2" draggable="true" >
+
+<p class="content">
+ <b>19.08.2024</b> Isabell delivered a great defense of for her Bachelor's degree today! 🎉
+</p>
+
+<p class="content">
+ <b>16.08.2024</b> Josh defended his Master's thesis on molecular decanalization in <i>Cardiocondyla</i>. Congrats, Josh! 🎉
+</p>
+
+<p class="content">
+ <b>11.04.2024</b> Nanda has started his Master's thesis on the molecular signatures of host adaptation in <i>Aphidius ervi</i>. 👋
+</p>
+
+<p class="content">
+ <b>18.12.2023</b> Sandra defended her Master's thesis on olfactory system evolution in ants. She will move on to do a PhD in Jena. Congrats! 🎉
+</p>
+
+<p class="content">
+ <b>13.05.2022</b> Janina defended her Master's thesis on horizontal gene transfers in ants and will continue as a PhD student. Congrats, and welcome! 🎉👋
+</p>
+
+<p class="content">
+ <b>08.04.2022</b> Esther defended her Master's thesis on phenotypic robustness, TEs and heatshocks in <i>Cardiocondyla</i>. Eshter will stay on as a PhD student. Congrats, and welcome! 🎉👋
+</p>
+
+<p class="content">
+<b>28.01.2022</b>	Our website has gone online. Check out our [team](team.html) and an overview of all published [papers](publications.html). 
+</p>
+
+<p class="content">
+<b>05.01.2022</b>	The DFG-funded project on "Transposable elements as genetic innovators in the invasive ant *Cardiocondyla obscurior*" will start soon! 
+</p>
+	   
 
 </div>
 
@@ -40,3 +73,4 @@ Most of our research has so far focused on ants, while only a minority of my ong
 <br>
 <br>
 <br>
+</body>

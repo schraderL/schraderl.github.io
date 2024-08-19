@@ -3,8 +3,38 @@
     -webkit-columns: 2 200px; /* chrome, safari */
     -moz-columns: 2 200px;    /* firefox */
   }
+  
+.container2{
+   /* margin-top: 10%;
+    margin-left: 48%;  */      
+    background: white;;
+    overflow:hidden;
+    width:500px;
+    height:150px;
+    padding: 10px;
+    border: 3px solid gray;
+    border-radius: 15px;
+}
+.content{
+    font-family: Arial, Helvetica, sans-serif;
+    animation-name: ToBeAnimate;
+    animation-direction: normal;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    position: relative;
+    left:0px;
 
+}
 
+@keyframes ToBeAnimate{
+    
+    0%	{ top: 0px;  }
+    33%	{ top: -100px; }
+    66%	{ top: -195px; }
+	100%{ top: 0px;  }
+		
+}
 p.block {
 	hyphens: auto; 
 	text-align: justify-all;
@@ -40,7 +70,6 @@ div.latest {
     margin-left:1em;
 }
 
-
 p.people {
   padding:0.7em;
   margin-left:0.7em;
@@ -52,6 +81,9 @@ p.press {
   margin-left:0.7em;
   display: inline-block;
 }
+
+
+
 
 img.people {
   float:left;
