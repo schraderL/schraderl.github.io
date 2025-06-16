@@ -33,6 +33,19 @@ Most of our research has so far focused on ants, while only a minority of my ong
 <br>
 <div class="container2" draggable="true" >
 
+
+<p class="content">
+ <b>31.03.2025</b><br> Another long-lasting project coming to an end with contributions from Simo and Lukas! <a href="https://www.researchsquare.com/article/rs-6320655/v1">This is on HSP90 in flour beetles.</a>
+</p>
+
+<p class="content">
+ <b>12.01.2025</b><br> Janina just posted her preprint on horizontal gene transfers in ants. This is a great paper, really! See <a href="https://www.researchsquare.com/article/rs-5741203/v1">here</a>.
+</p>
+
+<p class="content">
+ <b>16.12.2024</b><br> >10 years of work in one paper. The <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5055090">preprint for the Global Ant Genomics Alliance</a> is online! 
+</p>
+
 <p class="content">
  <b>19.08.2024</b><br> Isabell delivered a great defense of for her Bachelor's degree today! 🎉
 </p>

@@ -27,14 +27,6 @@
 
 }
 
-@keyframes ToBeAnimate{
-    
-    0%	{ top: 0px;  }
-    33%	{ top: -100px; }
-    66%	{ top: -195px; }
-	100%{ top: 0px;  }
-		
-}
 p.block {
 	hyphens: auto; 
 	text-align: justify-all;
