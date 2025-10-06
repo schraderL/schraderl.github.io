@@ -35,7 +35,24 @@ Most of our research has so far focused on ants, while only a minority of my ong
 
 
 <p class="content">
+ <b>04.09.2025</b><br> Simo and I joined Wei and others in a paper on fatty acid synthase genes in <i>Nasonia</i>. See the preprint <a href="https://www.biorxiv.org/content/10.1101/2025.09.01.673505v1.abstract">here.</a>
+</p>
+
+<p class="content">
+ <b>02.09.2025</b><br> Nanda Vo gracefully defended his Master's thesis on transcriptomic signatures of plastic adaptation in Aphidius parasitoids. Congrats! 🎉
+</p>
+
+<p class="content">
+ <b>22.08.2025</b><br> Our study on adaptive evolution in ant odorant receptors is  <a href="https://www.biorxiv.org/content/10.1101/2025.08.20.670513v1.abstract">online as a preprint!</a> 
+</p>
+
+<p class="content">
  <b>31.03.2025</b><br> Another long-lasting project coming to an end with contributions from Simo and Lukas! <a href="https://www.researchsquare.com/article/rs-6320655/v1">This is on HSP90 in flour beetles.</a>
+</p>
+
+
+<p class="content">
+ <b>15.03.2025</b><br> Tania's paper with contributions by Simo, Janina and I is out on <a href="https://www.biorxiv.org/content/10.1101/2025.03.13.642958v1.abstract">bioarxv</a>.
 </p>
 
 <p class="content">

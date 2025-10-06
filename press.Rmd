@@ -4,6 +4,19 @@ title: "Press coverage"
 ---
 
 
+
+<br>
+<div class="press">
+<p class="press">
+[<img class="press" src="files/press/press5.png">](https://www.uni-muenster.de/news/view.php?cmdid=14797&lang=en)
+**Press Release(s)** *New study provides deep insights into the genomes of superorganisms*
+<br> 
+Press releases in 2025 from the [University of Münster](https://www.uni-muenster.de/news/view.php?cmdid=14797&lang=en), the [Chinese Academy of Sciences](https://english.cas.cn/newsroom/cas_media/202506/t20250618_1045757.shtml) and the [Copenhagen University](https://www1.bio.ku.dk/english/news/2025/the-genomic-organization-of-superorganismal-ant-colonies/) highlight our [Cell paper on genome evolution in ants](https://doi.org/10.1016/j.cell.2025.05.030).
+<br>
+</p>
+</div>
+
+
 <br>
 <div class="press">
 <p class="press">
