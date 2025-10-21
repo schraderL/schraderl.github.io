@@ -33,9 +33,16 @@ Most of our research has so far focused on ants, while only a minority of my ong
 <br>
 <div class="container2" draggable="true" >
 
+<p class="content">
+ <b>21.10.2025</b><br> The paper on HSP90 in Tribolium with Simo and Lukas is  <a href="https://www.nature.com/articles/s41467-025-65027-0">published in *Nature Communications* now! </a>
+</p>
 
 <p class="content">
- <b>04.09.2025</b><br> Simo and I joined Wei and others in a paper on fatty acid synthase genes in <i>Nasonia</i>. See the preprint <a href="https://www.biorxiv.org/content/10.1101/2025.09.01.673505v1.abstract">here.</a>
+ <b>04.09.2025</b><br> After over 10 years of work, we have published the first paper on the GAGA project. Read it <a href="https://doi.org/10.1016/j.cell.2025.05.030">here.</a>
+</p>
+
+<p class="content">
+ <b>04.09.2025</b><br> Simo and Lukas joined Wei and others in a paper on fatty acid synthase genes in <i>Nasonia</i>. See the preprint <a href="https://www.biorxiv.org/content/10.1101/2025.09.01.673505v1.abstract">here.</a>
 </p>
 
 <p class="content">
