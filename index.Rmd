@@ -3,124 +3,163 @@ title: "Welcome to the Insect Evolutionary Genomics lab at the University of Mü
 description: |
   Lukas Schrader
 ---
-<body>
-<div class = "row">
 
-<div class = "col-md-6", style="text-align: justify;">
-<p>
+<div class="row">
+
+<div class="col-md-6 lab-description">
+
+## Our Research Focus
+
 Our work primarily aims at understanding the function and evolution of genomic complexity, currently focusing on advancing our understanding of how structural and compositional differences between genomes arise, how these differences become evident at the phenotypic level, and how selection and drift eventually produce evolutionary change. 
-For this, we study genome evolutionary mechanisms at the level of species, populations and families to get a complete picture of the molecular and genetic mechanisms that allow adaptive evolution and differentiation at the level of the genome.
-</p>
-<p>
-We approach these mechanisms from two different directions. <br> We either begin from an organismal perspective, focusing on adaptive traits that emerged within a group of populations or species – for example the convergent evolution of inquiline social parasitism in fungus-growing ants. To unravel the underlying evolutionary processes, we then study phenotypic (e.g. behavioral, morphological, transcriptomic) and genetic/genomic changes underlying the adaptive change. Eventually, we aim to develop model based on our understanding of genome evolutionary and population genetic mechanisms that explain how the adaptation could arise and be favored by selection. 
-</p>
-<p>
-Alternatively, we study evolutionary mechanisms in a suitable system, so far focusing on mechanisms of rapid adaptive change, e.g. via transposable elements (TEs), phenotypic plasticity and epigenetic inheritance, or genome rearrangements. The latter approach usually involves the selection of suitable model organisms that can be kept under laboratory conditions over several generations (i.e. the ant <i>Cardiocondyla obscurior</i> and the parasitoid was <i>Aphidius ervi</i>).
-</p>
-<p>
-Our toolkit is clearly biased towards big data analyses, in particular approaches from the fields of comparative genomics, population genomics, and transcriptomics. However, our projects commonly also involve field work (either for sample collection or to study the organism) and behavioral or molecular experiments in the laboratory to support findings from big data analyses. 
-</p>
-<p>
-Most of our research has so far focused on ants, while only a minority of my ongoing projects and collaborations focus on honey bees and parasitoid wasps. We study species so rare that they are almost impossible to collect and study under laboratory conditions (inquiline social parasites in <i>Acromyrmex</i>) or species that are very well suited to be kept under artificial conditions in large laboratory populations (e.g. <i>C. obscurior</i> and <i>A. ervi</i>).
-</p>
-</div>
 
-<div class = "col-md-6">
-<div class = "row">
-<img src="files/colony-c.png" width=100%>
-</div>
+We study genome evolutionary mechanisms at the level of species, populations and families to get a complete picture of the molecular and genetic mechanisms that allow adaptive evolution and differentiation at the level of the genome.
 
-<br>
-<div class="container2" draggable="true" >
+## Our Approach
 
-<p class="content">
- <b>21.10.2025</b><br> The paper on HSP90 in Tribolium with Simo and Lukas is  <a href="https://www.nature.com/articles/s41467-025-65027-0">published in *Nature Communications* now! </a>
-</p>
+We approach these mechanisms from two different directions: 
 
-<p class="content">
- <b>04.09.2025</b><br> After over 10 years of work, we have published the first paper on the GAGA project. Read it <a href="https://doi.org/10.1016/j.cell.2025.05.030">here.</a>
-</p>
+**From an organismal perspective**, we focus on adaptive traits that emerged within a group of populations or species – for example the convergent evolution of inquiline social parasitism in fungus-growing ants. We then study phenotypic (e.g. behavioral, morphological, transcriptomic) and genetic/genomic changes underlying the adaptive change to develop models that explain how adaptation arises and is favored by selection.
 
-<p class="content">
- <b>04.09.2025</b><br> Simo and Lukas joined Wei and others in a paper on fatty acid synthase genes in <i>Nasonia</i>. See the preprint <a href="https://www.biorxiv.org/content/10.1101/2025.09.01.673505v1.abstract">here.</a>
-</p>
+**From a mechanistic perspective**, we study evolutionary mechanisms in suitable systems, focusing on mechanisms of rapid adaptive change via transposable elements (TEs), phenotypic plasticity, epigenetic inheritance, and genome rearrangements. We use model organisms that can be kept under laboratory conditions, including the ant *Cardiocondyla obscurior* and the parasitoid wasp *Aphidius ervi*.
 
-<p class="content">
- <b>02.09.2025</b><br> Nanda Vo gracefully defended his Master's thesis on transcriptomic signatures of plastic adaptation in Aphidius parasitoids. Congrats! 🎉
-</p>
+## Our Toolkit
 
-<p class="content">
- <b>22.08.2025</b><br> Our study on adaptive evolution in ant odorant receptors is  <a href="https://www.biorxiv.org/content/10.1101/2025.08.20.670513v1.abstract">online as a preprint!</a> 
-</p>
+Our research is biased towards big data analyses, particularly comparative genomics, population genomics, and transcriptomics. However, our projects commonly involve field work for sample collection and behavioral or molecular experiments in the laboratory to support our big data findings.
 
-<p class="content">
- <b>31.03.2025</b><br> Another long-lasting project coming to an end with contributions from Simo and Lukas! <a href="https://www.researchsquare.com/article/rs-6320655/v1">This is on HSP90 in flour beetles.</a>
-</p>
-
-
-<p class="content">
- <b>15.03.2025</b><br> Tania's paper with contributions by Simo, Janina and I is out on <a href="https://www.biorxiv.org/content/10.1101/2025.03.13.642958v1.abstract">bioarxv</a>.
-</p>
-
-<p class="content">
- <b>12.01.2025</b><br> Janina just posted her preprint on horizontal gene transfers in ants. This is a great paper, really! See <a href="https://www.researchsquare.com/article/rs-5741203/v1">here</a>.
-</p>
-
-<p class="content">
- <b>16.12.2024</b><br> >10 years of work in one paper. The <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5055090">preprint for the Global Ant Genomics Alliance</a> is online! 
-</p>
-
-<p class="content">
- <b>19.08.2024</b><br> Isabell delivered a great defense of for her Bachelor's degree today! 🎉
-</p>
- 
-<p class="content">
- <b>16.08.2024</b><br> Josh defended his Master's thesis on molecular decanalization in <i>Cardiocondyla</i>. Congrats, Josh! 🎉
-</p>
-
-<p class="content">
- <b>13.07.2024</b><br> <a href="https://doi.org/10.1093/biomethods/bpae050">There is a new paper on Transposon Displays in <i>Cardiocondyla</i></a>. Beautiful work by Esther! 🙌
-</p>
-
-
-<p class="content">
- <b>13.05.2024</b><br> Simo is on a roll. Another paper accepted, <a href="https://link.springer.com/article/10.1186/s12915-024-01907-z">this time in BMC Biology</a>! We explored the evolutionary genomics of social polymorphisms in <i>Pogonomyrmex californicus</i>. 🙌
-</p>
-
-<p class="content">
- <b>30.05.2024</b><br> Simo's paper on recombination rate dynamics in <i>Cardiocondyla obscurior</i> was accepted in Genome Research. Check it out <a href="https://genome.cshlp.org/content/34/6/863.short">here</a>! 🙌
-</p>
-
-<p class="content">
- <b>11.04.2024</b><br> Nanda has started his Master's thesis on the molecular signatures of host adaptation in <i>Aphidius ervi</i>. 👋
-</p>
-
-<p class="content">
- <b>18.12.2023</b><br> Sandra defended her Master's thesis on olfactory system evolution in ants. She will move on to do a PhD in Jena. Congrats! 🎉
-</p>
-
-<p class="content">
- <b>13.05.2022</b><br> Janina defended her Master's thesis on horizontal gene transfers in ants and will continue as a PhD student. Congrats, and welcome! 🎉👋
-</p>
-
-<p class="content">
- <b>08.04.2022</b><br> Esther defended her Master's thesis on phenotypic robustness, TEs and heatshocks in <i>Cardiocondyla</i>. Eshter will stay on as a PhD student. Congrats, and welcome! 🎉👋
-</p>
-
-<p class="content">
-<b>28.01.2022</b><br>	Our website has gone online. Check out our [team](team.html) and an overview of all published [papers](publications.html). 
-</p>
-
-<p class="content">
-<b>05.01.2022</b><br>	The DFG-funded project on "Transposable elements as genetic innovators in the invasive ant *Cardiocondyla obscurior*" will start soon! 
-</p>
-	   
+We primarily focus on ants, with some projects on honey bees and parasitoid wasps, studying both rare species difficult to culture and well-suited laboratory model organisms.
 
 </div>
 
+<div class="col-md-6">
+<div class="lab-image">
+<img src="files/colony-c.png" alt="Ant colony">
+</div>
+
+<div class="news-feed">
+
+
+<div class="news-item">
+ <span class="news-date">29.11.2025</span>
+ <p>Lukas and collaborators released the <a href="https://www.biorxiv.org/content/10.1101/2025.11.29.689474v1.abstract">AntScan paper on bioRxiv</a>, presenting high-throughput 3D X-ray imaging of 2193 ant specimens from 792 species, paired with genome data to study the evolution and diversity of organismal phenotypes.</p>
+</div>
+
+
+
+<div class="news-item">
+ <span class="news-date">20.12.2025</span>
+ <p>With contributions from Simo, Janina and Lukas, <a href="https://resjournals.onlinelibrary.wiley.com/doi/full/10.1111/imb.70021">Tania's paper on epigenetics of <i>Pogonomyrmex</i> harvester ants</a> is out in Insect Molecular Biology.</p>
+</div>
+
+
+
+<div class="news-item">
+ <span class="news-date">10.11.2025</span>
+ <p>Isabell has joined for her Master's thesis working on the very confusing topic of genome evolution in <i>Cardiocondyla</i>!</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">21.10.2025</span>
+ <p>The paper on HSP90 in Tribolium with Simo and Lukas is <a href="https://www.nature.com/articles/s41467-025-65027-0">published in Nature Communications</a> now!</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">04.09.2025</span>
+ <p>After over 10 years of work, we have published the first paper on the GAGA project. <a href="https://doi.org/10.1016/j.cell.2025.05.030">Read it here.</a></p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">04.09.2025</span>
+ <p>Simo and Lukas joined Wei and others in a paper on fatty acid synthase genes in <i>Nasonia</i>. See the <a href="https://www.biorxiv.org/content/10.1101/2025.09.01.673505v1.abstract">preprint here.</a></p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">02.09.2025</span>
+ <p>Nanda Vo gracefully defended his Master's thesis on transcriptomic signatures of plastic adaptation in Aphidius parasitoids. Congrats! 🎉</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">22.08.2025</span>
+ <p>Our study on adaptive evolution in ant odorant receptors is <a href="https://www.biorxiv.org/content/10.1101/2025.08.20.670513v1.abstract">online as a preprint!</a></p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">31.03.2025</span>
+ <p>Another long-lasting project coming to an end with contributions from Simo and Lukas! <a href="https://www.researchsquare.com/article/rs-6320655/v1">This is on HSP90 in flour beetles.</a></p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">15.03.2025</span>
+ <p>Tania's paper with contributions by Simo, Janina and I is out on <a href="https://www.biorxiv.org/content/10.1101/2025.03.13.642958v1.abstract">bioarxiv</a>.</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">12.01.2025</span>
+ <p>Janina just posted her preprint on horizontal gene transfers in ants. This is a great paper, really! See <a href="https://www.researchsquare.com/article/rs-5741203/v1">here</a>.</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">16.12.2024</span>
+ <p>>10 years of work in one paper. The <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5055090">preprint for the Global Ant Genomics Alliance</a> is online!</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">19.08.2024</span>
+ <p>Isabell delivered a great defense for her Bachelor's degree today! 🎉</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">16.08.2024</span>
+ <p>Josh defended his Master's thesis on molecular decanalization in <i>Cardiocondyla</i>. Congrats, Josh! 🎉</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">13.07.2024</span>
+ <p><a href="https://doi.org/10.1093/biomethods/bpae050">There is a new paper on Transposon Displays in <i>Cardiocondyla</i></a>. Beautiful work by Esther! 🙌</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">13.05.2024</span>
+ <p>Simo is on a roll. Another paper accepted, <a href="https://link.springer.com/article/10.1186/s12915-024-01907-z">this time in BMC Biology</a>! We explored the evolutionary genomics of social polymorphisms in <i>Pogonomyrmex californicus</i>. 🙌</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">30.05.2024</span>
+ <p>Simo's paper on recombination rate dynamics in <i>Cardiocondyla obscurior</i> was accepted in Genome Research. <a href="https://genome.cshlp.org/content/34/6/863.short">Check it out here</a>! 🙌</p>
+</div>
+</p>
+
+
+<div class="news-item">
+ <span class="news-date">11.04.2024</span>
+ <p>Nanda has started his Master's thesis on the molecular signatures of host adaptation in <i>Aphidius ervi</i>. 👋</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">18.12.2023</span>
+ <p>Sandra defended her Master's thesis on olfactory system evolution in ants. She will move on to do a PhD in Jena. Congrats! 🎉</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">13.05.2022</span>
+ <p>Janina defended her Master's thesis on horizontal gene transfers in ants and will continue as a PhD student. Congrats, and welcome! 🎉👋</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">08.04.2022</span>
+ <p>Esther defended her Master's thesis on phenotypic robustness, TEs and heatshocks in <i>Cardiocondyla</i>. Esther will stay on as a PhD student. Congrats, and welcome! 🎉👋</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">28.01.2022</span>
+ <p>Our website has gone online. Check out our <a href="team.html">team</a> and an overview of all published <a href="publications.html">papers</a>.</p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">05.01.2022</span>
+ <p>The DFG-funded project on "Transposable elements as genetic innovators in the invasive ant <i>Cardiocondyla obscurior</i>" will start soon!</p>
+</div>
+
+</div>
+
 </div>
 </div>
-<br>
-<br>
-<br>
-</body>

@@ -2,77 +2,75 @@
 title: "Research"
 
 ---
-<div class = "row">
-## {.tabset}
 
-### **Rapid genome evolution**
-<div class = "col-md-8", style="text-align: justify;">
-Structural variants, defined as stretches of DNA that differ in copy number (deletions, insertions and duplications), orientation (inversions) or chromosomal location (translocations) between individuals, are the largest source of inter-individual genetic variation. Such complex rearrangements can be caused by a single mutagenic event and account for most of the variation between genomes. For example in humans, any two humans will on average differ in copy number across 0.78% of their genomes!
+## Our Research Areas
 
-Structural variation can have devastating fitness consequences, but there is sufficient evidence to also conclude that they provide a rich basis for adaptive evolution. Different to single nucleotide variants, structural variants are much more likely to have a large effect on an individual’s phenotype, because they affect more than a single base (see for example, the loss of pelvic appendages in freshwater stickle-back populations, Chan et al. 2010). The relatively high frequency of structural variants in natural populations, their origin from single mutagenic events and their potential for causing considerable phenotypic change make structural variants a relevant research subject for studying rapid adaptation.
-We explore the origins, prevalence, and consequences of structural variation in the invasive ant <i>Cardiocondyla obscurior</i> a genomic model for eusocial evolution,  which shows considerable phenotypic variation across different introduced populations. Intriguingly, in introduced populations, genetic bottlenecks and increased inbreeding reduces efficiency of selection, while the instantaneous exposure to a novel environment opens up potential (and demand) for rapid evolutionary change. Therefore, mildly adaptive small-effect variants (e.g. SNVs) caused by mutations, retrotransposons or doublestrand-break DNA repair are more likely to be lost through drift and are thus less likely to contribute to adaptation. Hence, larger structural variants conferring larger phenotypic effects should be particularly important under this scenario. Indeed, structural variation have repeatedly been shown to confer adaptations to novel environments.
-<br>
-<br>
+<div class="research-container">
+
+<div class="research-card">
+<div class="research-card-header">
+<h3>Cardiocondylomics</h3>
 </div>
+<div class="row">
+<div class="col-md-8">
+<p>We study structural and compositional genome variation in the invasive ant <i>Cardiocondyla obscurior</i>, a model organism for understanding rapid evolutionary change and genomic innovation. Structural variants (SVs)—including deletions, insertions, inversions, and translocations—are the largest source of genetic variation between individuals and a primary driver of adaptation in novel environments.</p>
 
-
-<div class = "col-md-4", style="text-align: justify;">
-<img src="./files/research/TE2.png" width=100%>
+<p>Our research focuses on how populations with small effective sizes and high inbreeding, when exposed to new habitats, can rapidly adapt through structural genomic changes. We combine comparative genomics, population genomics, and experimental evolution to uncover the mechanisms underlying adaptive evolution at the genomic level.</p>
 </div>
-
-
-### **GAGA**
-<div class = "col-md-8", style="text-align: justify;">
-The Global Ant Genomics Alliance (GAGA) was initiated in 2015 mainly by Guojie Zhang (University of Copenhagen, China National GeneBank, Kunming Institute of Zoology), Jacobus (Koos) Boomsma (University of Copenhagen), and Lukas Schrader and has prospered into a global collaboration with a network of over 120 collaborators from 25 countries (visit [antgenomics.dk](antgenomics.dk) for further details). GAGA’s primary goal is to generate comprehensive genomic, transcriptomic and phenotypic resources for over 200 species selected from across the ant phylogeny. For each species, we aim to produce (1) a high-quality genome assembly (using a com- bination of PacBio, and stLFR- or HiC-sequencing), (2) gene expression data from queens and workers (using short reads), (3) microbial symbioses datasets using metagenomic 16S-rDNA sequencing, (4) (macro-)eco- logical datasets, and (5) morphological datasets from micro-CT scans. You can find more details at <a href=http://antgenomics.dk>antgenomics.dk</a>.
-<br>
-<br>
+<div class="col-md-4">
+<img src="./files/research/TE2.png" width="100%" alt="Cardiocondyla genomics">
 </div>
-
-
-<div class = "col-md-4", style="text-align: justify;">
-<img src="./files/research/GAGA1.png" width=100%>
-</div>
-
-### **Transposable elements and genetic innovation**
-<div class = "col-md-8", style="text-align: justify;">
-Genome evolution is a much more dynamic process than originally presumed. Present in virtually every genome, transposable elements (TEs) are important players in this, as they actively (transposition) and passively (e.g. aberrant recombination) generate novel genetic mutations and rearrangements. TEs thus play a key role in the genetic differentiation of individuals, populations, and species. We try gaining a better understanding of TEs in genome evolution and their role as a creative force in adaptive processes. For this, we study their impact in <i>Cardiocondyla obscurior</i>, a species of invasive ants whose genome is compartmentalized in fast evolving TE-rich and slowly evolving TE-poor regions. Specifically, we address (1) whether TEs can increase adaptability in this species, (2) whether selective activity of TEs in the worker caste can generate adaptive genetic diversity, and (3) whether the HSP90-dependent cellular stress response contributes to the interplay of environment and TE activity. Our researchcombines transcriptomics, genomics, and agent-based simulations to expand our knowledge of the role of TEs in evolution and how invasive species cope with constantly changing environments.
-<br>
-<br>
-</div>
-
-
-<div class = "col-md-4", style="text-align: justify;">
-<img src="./files/research/TE1.png" width=100%>
-</div>
-
-
-### **Canalization and phenotypic robustness**
-<div class = "col-md-8", style="text-align: justify;">
-Canalization underlies the expression of steady phenotypes in the face of unsteady environmental conditions or varying genetic backgrounds. The chaperone HSP90 has been identified as a key component of the molecular machinery regulating canalization and a growing body of research suggests that HSP90 could act as a general capacitator in evolution. However, empirical data about HSP90-dependent phenotypic variation and its evolutionary impact is still scarce, particularly for non-model species.
-<br>
-<br>
-</div>
-
-<div class = "col-md-4", style="text-align: justify;">
-<img src="./files/research/canalization.png" width=50%>
-</div>
-
-### **Phenotypic plasticity**
-
-### **Evolutionary capacitators**
-
-### **Invasion biology**
-
-### **Rapid host specialization** 
-<div class = "col-md-8", style="text-align: justify;">
-The ability of parasites to exploit a range of host species is a classic example of phenotypic plasticity. While such host generalism is expected to be mediated through alterations of gene expression levels, the particular molecular mechanisms of plasticity are not well understood. Aphidius ervi is a generalist parasitoid of aphids, attacking a wide range of different species. Previous research indicates that host preference and parasitoid performance vary in the absence of genetic variation and host preferences can evolve rapidly over few generations, suggesting a non-genetic mode of inheritance for host preference. We designed a laboratory natural selection experiment in the absence of genetic variation to study transcriptomic changes and the non-genetic mechanisms of inheritance that could explain the evolution of rapid adaptions to a particular host. 
-This project is currently funded till 2022 as part of the DFGs SPP program on rapid adaptation (“Genetic and epigenetic mechanisms of rapid host adaptation in the aphid parasitoid Aphidius ervi”, SCHR 1554/3-1) in collaboration with researchers at the University of Münster.
-<br>
-<br>
-</div>
-<div class = "col-md-4", style="text-align: justify;">
-<img src="./files/research/Aervi.png" width=100%>
-
 </div>
 </div>
 
+<div class="research-card">
+<div class="research-card-header">
+<h3>Ant macroevolution</h3>
+</div>
+<div class="row">
+<div class="col-md-8">
+<p>The Global Ant Genomics Alliance (GAGA) is a large-scale international collaboration uniting over 120 researchers from 25 countries to generate comprehensive genomic resources for >200 ant species. GAGA integrates whole-genome assemblies, transcriptomics, microbiomics, and morphological data to provide unprecedented insights into ant evolution at the macroevolutionary scale.</p>
+
+<p>These resources enable comparative analysis of genome organization and macroevolution across the ant phylogeny, revealing how genomic architecture, morphology and life histories have evolved over the last 150 million years in ants.</p>
+
+<p>Read the main GAGA paper on ant genome evolution <a href="https://doi.org/10.1016/j.cell.2025.05.030">here</a> and the related AntScan paper on morphological evolution <a href="https://www.biorxiv.org/content/10.1101/2025.11.29.689474v1.abstract">here</a>.</p>
+</div>
+<div class="col-md-4">
+<img src="./files/research/GAGA1.png" width="100%" alt="GAGA project">
+</div>
+</div>
+</div>
+
+<div class="research-card">
+<div class="research-card-header">
+<h3>Transposable elements and genetic innovation</h3>
+</div>
+<div class="row">
+<div class="col-md-8">
+<p>Transposable elements (TEs) are powerful drivers of genomic innovation and adaptive evolution. We investigate how TEs generate genetic variation and shape genome evolution in <i>Cardiocondyla obscurior</i>, which has a compartmentalized genome with TE-rich and TE-poor regions evolving at different rates.</p>
+
+<p>Our research addresses whether TEs can increase adaptability during invasion, how their activity is regulated in response to environmental stress, and the role of HSP90-mediated stress responses in facilitating TE-driven adaptation. We combine transcriptomics, genomics, and computational simulations to understand how transposable elements fuel evolutionary innovation.</p>
+</div>
+<div class="col-md-4">
+<img src="./files/research/TE1.png" width="100%" alt="Transposable elements">
+</div>
+</div>
+</div>
+
+<div class="research-card">
+<div class="research-card-header">
+<h3>Phenotypic buffering and robustness</h3>
+</div>
+<div class="row">
+<div class="col-md-8">
+<p>Canalization—the capacity to maintain consistent phenotypes despite genetic and environmental variation—is a fundamental property of biological systems. We study how molecular chaperones, particularly HSP90, buffer genetic variation and regulate phenotypic robustness in the superorganism.</p>
+
+<p>Our work explores whether cryptic genetic variation released through stress can facilitate adaptive evolution and whether HSP90-dependent mechanisms contribute to the remarkable adaptability of invasive ant populations.</p>
+</div>
+<div class="col-md-4">
+<img src="./files/research/canalization.png" width="100%" alt="Phenotypic buffering">
+</div>
+</div>
+</div>
+
+</div>

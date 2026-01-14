@@ -1,30 +1,382 @@
+/* Modern Lab Website Styles */
+
+/* Main Lab Description Section */
+.lab-description {
+    text-align: justify;
+    line-height: 1.7;
+}
+
+.lab-description h2 {
+    color: #2c3e50;
+    font-size: 1.4em;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    font-weight: 600;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 0.5em;
+}
+
+.lab-description h2:first-child {
+    margin-top: 0;
+}
+
+.lab-description p {
+    color: #444;
+    font-size: 1em;
+    margin-bottom: 1em;
+}
+
+.lab-description strong {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+/* Image Section */
+.lab-image {
+    margin-bottom: 1.5em;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.lab-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* News Feed Styling */
+.news-feed {
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    max-height: 450px;
+    overflow-y: auto;
+    padding: 0;
+}
+
+.news-item {
+    padding: 1em 1.2em;
+    border-bottom: 1px solid #ecf0f1;
+    transition: background-color 0.2s ease;
+}
+
+.news-item:last-child {
+    border-bottom: none;
+}
+
+.news-item:hover {
+    background-color: #f8f9fa;
+}
+
+.news-date {
+    display: inline-block;
+    font-weight: 600;
+    color: #3498db;
+    font-size: 0.85em;
+    margin-bottom: 0.4em;
+}
+
+.news-item p {
+    margin: 0.5em 0 0 0;
+    font-size: 0.95em;
+    color: #555;
+    line-height: 1.5;
+}
+
+.news-item a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.news-item a:hover {
+    text-decoration: underline;
+    color: #2980b9;
+}
+
+.news-item i {
+    font-style: italic;
+}
+
+/* Scrollbar Styling for News Feed */
+.news-feed::-webkit-scrollbar {
+    width: 6px;
+}
+
+.news-feed::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.news-feed::-webkit-scrollbar-thumb {
+    background: #bdc3c7;
+    border-radius: 3px;
+}
+
+.news-feed::-webkit-scrollbar-thumb:hover {
+    background: #95a5a6;
+}
+
+/* Team Grid and Member Styles */
+.team-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+    max-width: 100%;
+}
+
+.team-card {
+    display: flex;
+    gap: 1.5em;
+    padding: 1.5em;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    align-items: flex-start;
+}
+
+.team-card:hover {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+}
+
+.team-photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 8px;
+    object-fit: cover;
+    border: 2px solid #3498db;
+    flex-shrink: 0;
+}
+
+.team-info {
+    flex-grow: 1;
+}
+
+.team-info h3 {
+    margin: 0 0 0.3em 0;
+    color: #2c3e50;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.team-info .role {
+    color: #3498db;
+    font-weight: 600;
+    font-size: 0.9em;
+    margin: 0 0 0.8em 0;
+}
+
+.team-info p {
+    color: #555;
+    line-height: 1.6;
+    margin: 0.5em 0;
+}
+
+/* Old Team Styles (deprecated) */
+.team-member {
+    display: flex;
+    gap: 1.5em;
+    padding: 1.5em;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    margin-bottom: 1.5em;
+}
+
+.team-member:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+}
+
+.team-member-header {
+    flex-shrink: 0;
+}
+
+.team-member-photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 8px;
+    object-fit: cover;
+    border: 2px solid #3498db;
+    display: block;
+}
+
+.team-member-body {
+    flex-grow: 1;
+}
+
+.team-member-body h3 {
+    margin: 0 0 0.3em 0;
+    color: #2c3e50;
+    font-size: 1.2em;
+}
+
+.team-member-body strong {
+    color: #3498db;
+    font-weight: 600;
+    font-size: 0.9em;
+    display: block;
+    margin-bottom: 0.8em;
+}
+
+.team-member-body p {
+    color: #555;
+    line-height: 1.6;
+    margin: 0.5em 0;
+}
+
+/* Research Text Styling */
+.research-text {
+    text-align: justify;
+    line-height: 1.7;
+    color: #444;
+}
+
+.research-text p {
+    margin-bottom: 1em;
+}
+
+/* Join Section Styling */
+.join-section {
+    background-color: #f8f9fa;
+    padding: 2em;
+    border-radius: 8px;
+    line-height: 1.7;
+}
+
+.join-section h2 {
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 0.5em;
+    margin-bottom: 1.5em;
+}
+
+.join-section ul {
+    margin-left: 1.5em;
+    color: #555;
+}
+
+.join-section li {
+    margin-bottom: 0.5em;
+    line-height: 1.6;
+}
+
+/* Press Section Styling */
+.press-section {
+    padding: 1em 0;
+}
+
+.press-section h2 {
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 0.5em;
+    margin-bottom: 2em;
+    font-size: 1.8em;
+}
+
+.press-item {
+    display: flex;
+    gap: 1.5em;
+    padding: 1.5em;
+    margin-bottom: 1.5em;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.press-item:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+}
+
+.press-item-image {
+    flex-shrink: 0;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 2px solid #3498db;
+}
+
+.press-item-content h3 {
+    margin: 0 0 0.8em 0;
+    color: #2c3e50;
+    font-size: 1.1em;
+}
+
+.press-item-content h3 a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.press-item-content h3 a:hover {
+    text-decoration: underline;
+    color: #2980b9;
+}
+
+.press-item-content p {
+    color: #555;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.press-item-content a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.press-item-content a:hover {
+    text-decoration: underline;
+    color: #2980b9;
+}
+
+/* Funding Section Styling */
+.funding-section {
+    text-align: center;
+    padding: 2em;
+}
+
+.funding-section h2 {
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 0.5em;
+    margin-bottom: 1.5em;
+    font-size: 1.8em;
+}
+
+.funding-section ul {
+    margin: 1.5em auto;
+    max-width: 600px;
+    text-align: left;
+    color: #555;
+}
+
+.funding-section li {
+    line-height: 1.8;
+    margin-bottom: 0.5em;
+}
+
+.funding-logos {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    flex-wrap: wrap;
+    margin-top: 2em;
+    padding: 2em;
+}
+
+.funding-logos img {
+    max-width: 200px;
+    height: auto;
+    object-fit: contain;
+}
+
+/* Legacy Styles */
 .col2 {
     columns: 2 200px;         /* number of columns and width in pixels*/
     -webkit-columns: 2 200px; /* chrome, safari */
     -moz-columns: 2 200px;    /* firefox */
-  }
-  
-.container2{
-   /* margin-top: 10%;
-    margin-left: 48%;  */      
-    background: white;;
-    overflow:hidden;
-    width:500px;
-    height:350px;
-    padding: 10px;
-    border: 3px solid gray;
-    border-radius: 15px;
-}
-.content{
-    font-family: Arial, Helvetica, sans-serif;
-    animation-name: ToBeAnimate;
-    animation-direction: normal;
-    animation-duration: 30s;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
-    position: relative;
-    left:0px;
-
 }
 
 p.block {
@@ -74,9 +426,6 @@ p.press {
   display: inline-block;
 }
 
-
-
-
 img.people {
   float:left;
   border: 1px solid #000000;
@@ -98,4 +447,52 @@ img.press {
   object-fit: cover;
   width:200px;
   height:200px;
+}
+/* Research Cards Layout */
+.research-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    margin-top: 1.5em;
+}
+
+.research-card {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 2em;
+    border-left: 4px solid #3498db;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.research-card:hover {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+}
+
+.research-card-header h3 {
+    color: #2c3e50;
+    font-size: 1.4em;
+    font-weight: 600;
+    margin: 0 0 1em 0;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 0.5em;
+}
+
+.research-card p {
+    color: #555;
+    line-height: 1.7;
+    margin-bottom: 1em;
+    font-size: 1em;
+}
+
+.research-card a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.2s ease;
+}
+
+.research-card a:hover {
+    color: #2980b9;
+    text-decoration: underline;
 }
