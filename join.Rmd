@@ -5,9 +5,7 @@ title: "Join Us!"
 
 <div class="join-section">
 
-## We are Looking for Talented Team Members!
-
-If you're interested in joining us, send an email to **Lukas.Schrader[at]wwu.de**. 
+If you're interested in joining us, send an email to **Lukas.Schrader[at]uni-muenster.de**. 
 
 Projects should regard open evolutionary or ecological questions that can be addressed using:
 - Population genomics
@@ -16,6 +14,6 @@ Projects should regard open evolutionary or ecological questions that can be add
 - Field work
 - Behavioral experiments
 
-We offer a stimulating research environment focused on understanding the evolution of genomes and their role in adaptive evolution.
+We offer a friendly and supportive research environment focused on understanding the evolution of genomes and their role in adaptive evolution, primarily in ants.
 
 </div>

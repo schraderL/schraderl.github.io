@@ -647,7 +647,48 @@ object-fit: cover;
 width:200px;
 height:200px;
 }
-</style>
+
+.research-container {
+display: flex;
+flex-direction: column;
+gap: 2em;
+margin-top: 1.5em;
+}
+.research-card {
+background-color: #f8f9fa;
+border-radius: 8px;
+padding: 2em;
+border-left: 4px solid #3498db;
+transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+.research-card:hover {
+box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+transform: translateY(-2px);
+}
+.research-card-header h3 {
+color: #2c3e50;
+font-size: 1.4em;
+font-weight: 600;
+margin: 0 0 1em 0;
+border-bottom: 2px solid #3498db;
+padding-bottom: 0.5em;
+}
+.research-card p {
+color: #555;
+line-height: 1.7;
+margin-bottom: 1em;
+font-size: 1em;
+}
+.research-card a {
+color: #3498db;
+text-decoration: none;
+font-weight: 600;
+transition: color 0.2s ease;
+}
+.research-card a:hover {
+color: #2980b9;
+text-decoration: underline;
+}</style>
 
 
 
@@ -903,15 +944,15 @@ display: none;
 </div>
 
 
-<div id="we-are-looking-for-talented-team-members" class="section level2 join-section">
-<h2>We are Looking for Talented Team Members!</h2>
+<div class="join-section">
 <p>If you’re interested in joining us, send an email to
-<strong>Lukas.Schrader[at]wwu.de</strong>.</p>
+<strong>Lukas.Schrader[at]uni-muenster.de</strong>.</p>
 <p>Projects should regard open evolutionary or ecological questions that
 can be addressed using: - Population genomics - Comparative analyses -
 Molecular biology - Field work - Behavioral experiments</p>
-<p>We offer a stimulating research environment focused on understanding
-the evolution of genomes and their role in adaptive evolution.</p>
+<p>We offer a friendly and supportive research environment focused on
+understanding the evolution of genomes and their role in adaptive
+evolution, primarily in ants.</p>
 </div>
 
 <p>Copyright © 2021 Lukas Schrader</p>
