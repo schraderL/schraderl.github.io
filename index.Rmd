@@ -37,6 +37,11 @@ We primarily focus on ants, with some projects on honey bees and parasitoid wasp
 
 <div class="news-feed">
 
+<div class="news-item">
+ <span class="news-date">05.03.2026</span>
+ <p> The Antscan paper has now been published in Nature Methods, read it here: https://doi.org/10.1038/s41592-026-03005-0. See also the website at https://www.antscan.info </p>
+</div>
+
 
 <div class="news-item">
  <span class="news-date">29.11.2025</span>

@@ -4,6 +4,16 @@ title: "Press coverage"
 ---
 
 
+<br>
+<div class="press">
+<p class="press">
+[<img class="press" src="files/press/press6.png">](https://www.science.org/content/article/insane-images-depict-ant-species-stunning-3-d)
+**Science** *‘Insane’ images depict ant species in stunning 3D*
+<br> 
+This is a [feature from Science](https://www.science.org/content/article/insane-images-depict-ant-species-stunning-3-d) on the recently published AntScan paper. More coverage of AntScan [here](https://www.nytimes.com/2026/03/05/science/ants-3d-scans.html?unlocked_article_code=1.Q1A.Y67i.Au0mlrbqEkC0&smid=url-share), [here](https://www.scientificamerican.com/article/scientists-created-a-digital-library-full-of-ants/), and [here](https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan).
+<br>
+</p>
+</div>
 
 <br>
 <div class="press">
