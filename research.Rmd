@@ -3,7 +3,7 @@ title: "Research"
 
 ---
 
-## Our Research Areas
+## What we do
 
 <div class="research-container">
 

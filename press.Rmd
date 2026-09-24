@@ -3,6 +3,16 @@ title: "Press coverage"
 
 ---
 
+<br>
+<div class="press">
+<p class="press">
+[<img class="press" src="files/press/press7.png">](https://www.uni-muenster.de/news/view.php?cmdid=15659)
+**Press Release** *“Jumping genes” helped ants in their evolutionary triumph after the extinction of the dinosaurs*
+<br> 
+This is the [press release](https://www.uni-muenster.de/news/view.php?cmdid=15659) by the University of Münster covering our [paper on TEs in ant genome evolution](https://www.science.org/doi/10.1126/sciadv.aee0306). "About 66 million years ago, the asteroid that ended the age of the dinosaurs paved the way for ants to rise to ecological dominance.New research now published in “Science Advances” shows that ants benefited from so-called transposable elements in their DNA, which are often referred to as “jumping genes”." 
+<br>
+</p>
+</div>
 
 <br>
 <div class="press">

@@ -35,11 +35,11 @@ title: "Team"
 </div>
 
 <div class="team-card">
-  <img src="files/people/lukasf.jpg" alt="Lukas Franke" class="team-photo">
+  <img src="files/people/nils.jpg" alt="Nils Rensing" class="team-photo">
   <div class="team-info">
-    <h3>Lukas Franke</h3>
+    <h3>Nils Rensing</h3>
     <p class="role">MSc student</p>
-    <p>Functional characterization of a horizontal gene transfer in <i>Cardiocondyla</i> ants.</p>
+    <p>Active TEs in superorganisms.</p>
   </div>
 </div>
 
@@ -56,7 +56,7 @@ title: "Team"
 ```
 
 ## Former Members
-
+- **Lukas Franke:** Horizontal gene transfer in *Cardiocondyla obscurior*.
 - **Mohammed (Simo) Errbii:** Genome dynamics in insects.
 - **Nanda Vo:** Transcriptomic signatures of plastic adaptation in <i>Aphidius</i> parasitoids.
 - **Joshua Grebe:** Canalization and phenotypic robustness of superorganisms.

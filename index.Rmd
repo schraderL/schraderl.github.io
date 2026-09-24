@@ -10,7 +10,7 @@ description: |
 
 ## Our Research Focus
 
-Our work primarily aims at understanding the function and evolution of genomic complexity, currently focusing on advancing our understanding of how structural and compositional differences between genomes arise, how these differences become evident at the phenotypic level, and how selection and drift eventually produce evolutionary change. 
+Our work primarily aims at understanding the function and evolution of genomic complexity, currently focusing on how structural and compositional differences between genomes arise. We also study how these genome-level differences show at the phenotypic level and how selection and drift eventually produce evolutionary change. 
 
 We study genome evolutionary mechanisms at the level of species, populations and families to get a complete picture of the molecular and genetic mechanisms that allow adaptive evolution and differentiation at the level of the genome.
 
@@ -36,6 +36,17 @@ We primarily focus on ants, with some projects on honey bees and parasitoid wasp
 </div>
 
 <div class="news-feed">
+
+<div class="news-item">
+ <span class="news-date">24.09.2026</span>
+ <p> Our lab's paper on TEs in ant genome evolution is out in Science Advances! Read it here: https://doi.org/10.1126/sciadv.aee0306. This paper has contributions by all current and former PhD students and is a really fascinating story. It includes dinosaurs! (or rather their extinction...) </p>
+</div>
+
+<div class="news-item">
+ <span class="news-date">10.05.2026</span>
+ <p> Nils joined us as a new Master's student. He will be working on hopefully very active TEs in *Cardiocondyla obscurior*.  </p>
+</div>
+
 
 <div class="news-item">
  <span class="news-date">05.03.2026</span>
