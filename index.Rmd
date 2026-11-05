@@ -3,7 +3,7 @@ title: "Welcome to the Insect Evolutionary Genomics lab at the University of Mü
 description: |
   Lukas Schrader
 ---
-
+<script type='text/javascript' src='https://embed.altmetric.com/assets/embed.js'></script>
 <div class="row">
 
 <div class="col-md-6 lab-description">
@@ -13,6 +13,47 @@ description: |
 Our work primarily aims at understanding the function and evolution of genomic complexity, currently focusing on how structural and compositional differences between genomes arise. We also study how these genome-level differences show at the phenotypic level and how selection and drift eventually produce evolutionary change. 
 
 We study genome evolutionary mechanisms at the level of species, populations and families to get a complete picture of the molecular and genetic mechanisms that allow adaptive evolution and differentiation at the level of the genome.
+
+## Research Highlights
+<div class="highlight-row">
+<div class="highlight-text">
+<span style="font-size: 0.85em;"> Schrader, et. al (2026), *Science Advances* </span><br>
+<span style="font-size: 1em;">[Transposable elements as evolutionary catalysts of ant macrodiversity](https://doi.org/10.1126/sciadv.aee0306)</span>
+</div>
+<div class="highlight-badge">
+<div class="altmetric-embed" data-badge-type="donut" data-doi="10.1126/sciadv.aee0306"></div>
+</div>
+</div>
+
+<div class="highlight-row">
+<div class="highlight-text">
+<span style="font-size: 0.85em;"> Katzke, et. al (2026), *Nature Methods* </span><br>
+<span style="font-size: 1em;">[High-throughput phenomics of global ant biodiversity](https://doi.org/10.1038/s41592-026-03005-0)</span> <br> 
+</div>
+<div class="highlight-badge">
+<div class="altmetric-embed" data-badge-type="donut" data-doi="10.1038/s41592-026-03005-0"></div>
+</div>
+</div>
+
+<div class="highlight-row">
+<div class="highlight-text">
+<span style="font-size: 0.85em;"> Rinke, et. al (2026), *GigaScience* </span><br>
+<span style="font-size: 1em;">[Comparative analysis of 163 ant genomes reveals recurrent horizontal gene transfer from bacteria to ants](https://doi.org/10.1093/gigascience/giag043)</span> <br> 
+</div>
+<div class="highlight-badge">
+<div class="altmetric-embed" data-badge-type="donut" data-doi="10.1093/gigascience/giag043"></div>
+</div>
+</div>
+
+<div class="highlight-row">
+<div class="highlight-text">
+<span style="font-size: 0.85em;"> Vizueta., et. al (2026), *Cell* </span><br>
+<span style="font-size: 1em;">[Adaptive radiation and social evolution of the ants](https://doi.org/10.1016/j.cell.2025.05.030)</span>
+</div>
+<div class="highlight-badge">
+<div class="altmetric-embed" data-badge-type="donut" data-doi="10.1016/j.cell.2025.05.030"></div>
+</div>
+</div>
 
 ## Our Approach
 
@@ -39,7 +80,7 @@ We primarily focus on ants, with some projects on honey bees and parasitoid wasp
 
 <div class="news-item">
  <span class="news-date">24.09.2026</span>
- <p> Our lab's paper on TEs in ant genome evolution is out in Science Advances! Read it here: https://doi.org/10.1126/sciadv.aee0306. This paper has contributions by all current and former PhD students and is a really fascinating story. It includes dinosaurs! (or rather their extinction...) </p>
+ <p> Our lab's paper on TEs in ant genome evolution is out in Science Advances! Read it here: https://doi.org/10.1126/sciadv.aee0306. This paper has contributions by all current and former PhD students and is a really fascinating story. It includes dinosaurs! (or rather their extinction...) 🦖 </p>
 </div>
 
 <div class="news-item">
@@ -50,7 +91,8 @@ We primarily focus on ants, with some projects on honey bees and parasitoid wasp
 
 <div class="news-item">
  <span class="news-date">05.03.2026</span>
- <p> The Antscan paper has now been published in Nature Methods, read it here: https://doi.org/10.1038/s41592-026-03005-0. See also the website at https://www.antscan.info </p>
+ <p> The Antscan paper has now been published in Nature Methods, read it here: https://doi.org/10.1038/s41592-026-03005-0. See also the website at https://www.antscan.info 
+</p>
 </div>
 
 

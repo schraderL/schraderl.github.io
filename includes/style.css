@@ -496,3 +496,35 @@ img.press {
     color: #2980b9;
     text-decoration: underline;
 }
+
+.highlight-row {
+  display: grid;
+  grid-template-columns: 1fr auto;  /* text takes the free space, badge takes what it needs */
+  gap: 1rem;
+  align-items: start;               /* keeps the badge at the top of the row */
+}
+
+.highlight-badge {
+  width: 4em;                     /* controls the badge size */
+}
+
+.highlight-badge .altmetric-embed img,
+.highlight-badge .altmetric-embed svg {
+  width: 100% !important;
+  height: auto !important;
+}
+
+@media (max-width: 600px) {
+  .highlight-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.highlight-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 1rem;
+  align-items: center;   /* centers the badge vertically in each row */
+  min-height: 7rem;      /* every row is at least this tall */
+  margin-bottom: 1rem;   /* equal gap between rows */
+}
