@@ -528,3 +528,32 @@ img.press {
   min-height: 7rem;      /* every row is at least this tall */
   margin-bottom: 1rem;   /* equal gap between rows */
 }
+/* Make the icon a positioning context for the label */
+.gitlab-ls,
+.gitlab-jr,
+.gitlab-eb {
+  position: relative;
+}
+
+/* Common label styling */
+.gitlab-ls::after,
+.gitlab-jr::after,
+.gitlab-eb::after {
+  content: "LS"; /* default */
+  position: absolute;
+  font-family: Arial, sans-serif;
+  font-size: 7px;
+  font-weight: bold;
+  color: black;
+  right: 5px;
+  bottom: -2px;
+}
+
+/* Override the text for each icon */
+.gitlab-jr::after {
+  content: "JR";
+}
+
+.gitlab-eb::after {
+  content: "EB";
+}
